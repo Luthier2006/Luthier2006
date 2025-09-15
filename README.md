@@ -1,4 +1,4 @@
-## Me chamo Luthier. Sou desenvolvedor web
+## Me chamo Luthier | Desenvolvedor Web FrontEnd e BackEnd | Análise e Desenvolvimento de Sistemas | Pleno
 
 <p>
   <img 
