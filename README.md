@@ -1,5 +1,4 @@
-<h1>Me chamo Luthier | Desenvolvedor Web FrontEnd e BackEnd | Análise e Desenvolvimento de Sistemas | Pleno</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8d00c5&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Luthier;Desenvolvedor+Frontend+e+Backend+;Pleno)](https://git.io/typing-svg) 
 <p>
   <img 
     align="left" 
@@ -34,7 +33,7 @@
   ##
  
 <div> 
-  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><p>@eros.black2006</p>
+  <a align="center" href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><p>@eros.black2006</p>
   <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p>Leandro Luiz</p>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><p>Eros_Black2006</p>
 </div>
