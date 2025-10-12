@@ -3,10 +3,12 @@
 <img align="left" alt="GitHub Stats" height="200" 
   style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Luthier2006&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luthier2006&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /><br><br><br><br><br><br><br>
+<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luthier2006&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/><br><br><br><br><br><br><br>
 
 <div style="display: inline_block"><br><br>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Luthier2006&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /><br><br><br>
+  <img 
+    align="center" 
+    src="https://github-profile-trophy.vercel.app/?username=Luthier2006&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/><br><br><br>
 
 ##
 
