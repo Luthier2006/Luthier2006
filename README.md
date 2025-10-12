@@ -7,8 +7,7 @@
 
 <div style="display: inline_block"><br><br>
   <img 
-    align="center" 
-    src="https://github-profile-trophy.vercel.app/?username=Luthier2006&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/><br><br><br>
+    align="center" src="https://github-profile-trophy.vercel.app/?username=Luthier2006&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/><br><br><br>
 
 ##
 
