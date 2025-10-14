@@ -6,7 +6,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luthier2006&bg_color=000000&color=f700ff&line=00ffe8&point=f700ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <img 
-    align="center" src="https://github-profile-trophy.vercel.app/?username=Luthier2006&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/><br><br><br>
+    align="center" src="https://github-profile-trophy.vercel.app/?username=Luthier2006&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/><br><br><br>
 
 ##
 
