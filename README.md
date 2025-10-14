@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8d00c5&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Luthier;Desenvolvedor+Frontend+e+Backend+;Pleno)](https://git.io/typing-svg) 
 
-<img align="left" alt="GitHub Stats" height="200" 
-  style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Luthier2006&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luthier2006&show_icons=true&count_private=true&hide_border=true&title_color=f700ff&icon_color=00ffe8&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
 
 <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luthier2006&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/><br><br><br><br><br><br><br>
 
