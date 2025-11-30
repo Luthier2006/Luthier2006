@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f700ff&size=35&center=true&vCenter=true&width=1000&lines=Hello+guys)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f700ff&size=35&center=true&vCenter=true&width=1000&lines=Hello+guys)](https://git.io/typing-svg)
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luthier2006&show_icons=true&count_private=true&hide_border=true&title_color=f700ff&icon_color=00ffe8&text_color=ffffff&bg_color=000000" alt="Luthier2006 github stats"/><img width="41%" height="195px"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luthier2006&layout=compact&langs_count=10&hide_border=true&title_color=f700ff&text_color=00ffe8&bg_color=000000"/>
